@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.623f4e36.css",
+    "main.js": "./static/js/main.707c772d.js",
+    "static/js/787.74f7f469.chunk.js": "./static/js/787.74f7f469.chunk.js",
+    "static/media/Flatterband.svg": "./static/media/Flatterband.c384b97e7b16da7947d4f520f098f8b5.svg",
+    "static/media/Logo_KF.svg": "./static/media/Logo_KF.8f3e118c9a340101b589a1090737b384.svg",
+    "index.html": "./index.html",
+    "main.623f4e36.css.map": "./static/css/main.623f4e36.css.map",
+    "main.707c772d.js.map": "./static/js/main.707c772d.js.map",
+    "787.74f7f469.chunk.js.map": "./static/js/787.74f7f469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623f4e36.css",
+    "static/js/main.707c772d.js"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "server": "217.160.100.18",
+  "port": "22",
+  "api_port": "8443",
+  "username": "root",
+  "password": "%P3Pko@!9S",
+  "DeployBranch": "main",
+  "githubKey": "qmD0WzhOfKxzjFHKOu3gOWTeYwreQc4Mo3aE",
+  "RepoLink": "https://github.com/KF-Engineering/ExpressBareboneAutomation",
+  "domain": "www.kaiserfranz-engineering.de",
+  "RootUrl": "https://phase2.kaiserfranz-engineering.de/",
+  "clientPath": "www.phase2.kaiserfranz-engineering.de",
+  "Server": "/",
+  "sudomains": [
+    "aottest.Kaiserfranz-engineering.de",
+    "lgtest.Kaiserfranz-engineering.de"
+  ],
+  "api": "api.Kaiserfranz-engineering.de",
+  "clientPath": "buchdersprueche.kaiserfranz-engineering.de"
+}

@@ -1,0 +1,29 @@
+server{
+
+        listen 443  ssl;
+
+		listen [::]:443 ssl;
+		add_header Access-Control-Allow-Origin *;
+
+		
+
+
+		ssl_certificate    /etc/ssl/jointCert.cer;
+
+		ssl_certificate_key    /etc/ssl/Sslkey.key;
+
+		
+
+		
+
+                 server_name api.Kaiserfranz-engineering.de;
+
+		                # node api reverse proxy
+
+                location /{
+
+                            proxy_pass https://api.Kaiserfranz-engineering.de:8443;
+
+                }
+
+}
